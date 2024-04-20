@@ -1,9 +1,9 @@
-**IFCE - Maracanaú Campus**
-**Prof. Daniel Ferreira**
-**Programming Laboratory**
+**IFCE - Maracanaú Campus**  
+**Prof. Daniel Ferreira**  
+**Programming Laboratory**  
 
 **LIST II**  
-**03/11/2024**
+03/11/2024
 
 **Questions:** 
 1. Implement a program that takes as input a number (1-7) corresponding to one of the days of the week and prints the name of the corresponding day on the screen (Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday). If the number read is not in the range 1-7, print: "Invalid day number". The program should continue running until the user enters the number 0. (Use a test at the beginning).
