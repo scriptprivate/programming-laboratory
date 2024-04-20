@@ -2,9 +2,9 @@
 **Prof. Daniel Ferreira**  
 **Programming Laboratory**  
 
-**LIST III**
-*Practice*
-04/04/2024
+**LIST III**  
+*Practice*  
+04/04/2024  
 
 **Questions:**
 1. Write a C program that reads an array of 15 float elements and displays the sum of the smallest and largest element of the provided array.
